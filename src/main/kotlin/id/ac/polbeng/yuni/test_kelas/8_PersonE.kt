@@ -15,8 +15,8 @@ class `8_PersonE` {
     }
     /*
     Keyword this merujuk pada konstruktor kelas saat ini yang bersesuaian.
-    diatas, this(_firstName, _lastName) merujuk pada konstruktor yang berwarna kuning dan akan
-    memanggilnya terlebih dahulu sebelum kode didalam konstruktor yang berwarna hijau
+    diatas, this(_firstName, _lastName) merujuk pada konstruktor yang pertama dan akan
+    memanggilnya terlebih dahulu sebelum kode didalam konstruktor yang kedua
     dieksekusi.
      */
 
