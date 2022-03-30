@@ -19,3 +19,8 @@ fun main() {
     obj.func()
     println(obj.str)
 }
+/*
+Pada interfaces kita tidak memerlukan akses modifier final, open atau abstrak. Anggota interface
+selalu memiliki akses modifier open, kita tidak dapat mendeklarasikannya sebagai final. Ia
+abstrak jika ia tidak memiliki tubuh, tetapi keyword juga tidak dibutuhkan.
+ */
